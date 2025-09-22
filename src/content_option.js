@@ -1,6 +1,6 @@
 const logotext = "CHERAN";
 const meta = {
-    title: "Cheran",
+    title: "Cheran Portfolia",
     description: "I’m John Doe MERN Full stack devloper,currently Persuing INFORMATION TECHNOLOGY IN BANNARI AMMAN INSTITUTE OF TECHNOLOGY",
 };
 
