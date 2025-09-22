@@ -160,6 +160,7 @@ const socialprofils = {
     facebook: "https://facebook.com",
     linkedin: "https://linkedin.com",
     twitter: "https://twitter.com",
+    instagram:"https://www.instagram.com/cheran461/"
 };
 export {
     meta,
