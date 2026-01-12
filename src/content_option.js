@@ -5,7 +5,7 @@ const meta = {
 };
 
 const introdata = {
-    title: "I’m Cheran",
+    title: "I’m Cheran S",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
@@ -40,6 +40,10 @@ const worktimeline = [{
 const skills = [{
         name: "Python",
         value: 90,
+    },
+    {
+        name:"Html",
+        value:98,
     },
     {
         name: "Django",
